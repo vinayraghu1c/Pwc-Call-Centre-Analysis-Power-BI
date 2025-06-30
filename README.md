@@ -4,7 +4,7 @@
 
 
 ## 🔗 Live Report
-[View Published Report](https://app.powerbi.com/view?r=eyJrIjoiOTg2YTZmZDUtMGE5Mi00MmQwLWIzNzUtMWEyZjM4NzViNTVmIiwidCI6ImYxMTQ1YmY3LTZmMTktNDU2Mi1hOTA1LWQxMTVlMmZiYjQ4MCJ9)
+[View Published Report in Power BI](https://app.powerbi.com/view?r=eyJrIjoiOTg2YTZmZDUtMGE5Mi00MmQwLWIzNzUtMWEyZjM4NzViNTVmIiwidCI6ImYxMTQ1YmY3LTZmMTktNDU2Mi1hOTA1LWQxMTVlMmZiYjQ4MCJ9)
 
 ##  Project Description
 This Power BI dashboard analyzes the performance of a call centre operation based on PwC dataset. The report focuses on agent efficiency, customer satisfaction, call distribution, and time-based patterns. It is fully interactive, using slicers, filters, and a clean layout designed to highlight key performance indicators.
