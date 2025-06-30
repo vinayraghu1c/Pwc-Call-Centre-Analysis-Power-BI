@@ -1,6 +1,7 @@
 #  PwC Call Centre Performance Dashboard
 
-## ![Dashboard Preview] (https://github.com/vinayraghu1c/Pwc-Call-Centre-Analysis-Power-BI/blob/main/dashboard-preview.png)
+![Dashboard Preview](https://raw.githubusercontent.com/vinayraghu1c/Pwc-Call-Centre-Analysis-Power-BI/main/dashboard-preview.png)
+
 
 ## 🔗 Live Report
 [View Published Report](https://app.powerbi.com/view?r=eyJrIjoiOTg2YTZmZDUtMGE5Mi00MmQwLWIzNzUtMWEyZjM4NzViNTVmIiwidCI6ImYxMTQ1YmY3LTZmMTktNDU2Mi1hOTA1LWQxMTVlMmZiYjQ4MCJ9)
